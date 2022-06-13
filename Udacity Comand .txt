@@ -4,7 +4,7 @@ touch index.ts
 # initialize the project
 npm init -y 
 
-# install TS
+# install TS    =>    -D = --save-dev
 npm i -D typescript 
 
 # initialize TSC
@@ -13,6 +13,14 @@ npx tsc --init
 
 # add EsLine
 npm i -D eslint
+
+
+# initialize eslint
+npx eslint --init
+
+
+# add EsLine
+npm i -D prettier
 
 
 # initialize eslint
