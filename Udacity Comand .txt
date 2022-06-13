@@ -7,6 +7,9 @@ npm init -y
 # install TS
 npm i -D typescript 
 
+# initialize TSC
+npx tsc --init 
+
 
 
 
