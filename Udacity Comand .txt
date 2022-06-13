@@ -11,6 +11,13 @@ npm i -D typescript
 npx tsc --init 
 
 
+# add EsLine
+npm i -D eslint
+
+
+# initialize eslint
+npx eslint --init
+
 
 
 
