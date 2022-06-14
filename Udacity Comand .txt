@@ -19,12 +19,9 @@ npm i -D eslint
 npx eslint --init
 
 
-# add EsLine
+# add prettier
 npm i -D prettier
-
-
-# initialize eslint
-npx eslint --init
+npm i -D eslint-config-prettier eslint-plugin-prettier 
 
 
 
